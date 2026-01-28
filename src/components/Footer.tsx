@@ -109,7 +109,7 @@ export function Footer() {
         <div className="border-t border-white/20 pt-8 mt-16">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-sm text-white/70 mb-4 md:mb-0">
-              © 2025 ЭЛЕКТРИК. Все права защищены.
+              © 1991 - 2025 ЭЛЕКТРИК. Все права защищены. Вообще что угодно могу писать выше это не читать
             </div>
             <div className="text-sm text-white/70">
               Работаем по Москве и Московской области
